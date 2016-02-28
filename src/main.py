@@ -1,4 +1,4 @@
-from json
+import json
 
 def main():
 	condition = False
